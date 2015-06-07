@@ -1,6 +1,8 @@
 # PyGeoIpMap
 
 
+###NOTE: This fork is created as an attempt to use the 'geoip2.database' instead of using 'GeoIP' as the 'geoip2.database' has better accuracy. 
+
 A Python script to show where IP addresses are coming from by plotting them on a World map.
 
 ![evil_hackers.jpg](http://i.imgur.com/IGIaKDb.jpg)
